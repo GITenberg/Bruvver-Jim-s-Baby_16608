@@ -1,0 +1,30 @@
+_repo: Bruvver-Jim-s-Baby_16608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mighels, Philip Verrill
+    alias: Verrill Mighels, Philip
+    birthdate: 1869
+    deathdate: 1911
+    gutenberg_agent_id: '6820'
+    url: http://www.gutenberg.org/2009/agents/6820
+description: ''
+gutenberg_issued: '2005-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foundlings -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Gold miners -- Fiction'
+- !lcsh 'Nevada -- Fiction'
+title: Bruvver Jim's Baby
+url: http://www.gutenberg.org/ebooks/16608
